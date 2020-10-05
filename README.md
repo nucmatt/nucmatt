@@ -36,7 +36,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://matthew-a-wessel.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.matthew-a-wessel.dev-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://matthew-a-wessel.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.matthew--a--wessel.dev-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/matthew-a-wessel/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Matthew%20Wessel-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:nucmatt@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nucmatt@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
